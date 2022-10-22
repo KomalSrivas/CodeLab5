@@ -17,14 +17,24 @@ Container 3, db, will provide meal recommendations to Container 3
 Container 4, dba, will provide a GUI to container 3
 
 We organize our work in the following structure:
+		
 		/
+		
 		api/
+		
 			code/
+			
 			Dockerfile
+			
 		consumer/
+		
 			code/
+			
 			Dockerfile
+			
 		db/
+		
 			data/ 
+			
 		docker-compose.yml
 
